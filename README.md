@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a student majoring in Web Solution 👩🏻💨
+I am a student majoring in Web Solution 👩🏻💻
 
 - 🌱 I’m currently learning : java, android, python
 
