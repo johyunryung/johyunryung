@@ -7,9 +7,7 @@ I am a student majoring in Web Solution 👩🏻💻
 
 - 📫 How to reach me : instagram , facebook
 
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/profile.php?id=100010798333202)
-
-[![Instagram Badge](https://img.shields.io/badge/instagram-1877f2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zzsza)](https://www.instagram.com/rac_31y/?hl=ko)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/profile.php?id=100010798333202) [![Instagram Badge](https://img.shields.io/badge/instagram-1877f2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zzsza)](https://www.instagram.com/rac_31y/?hl=ko)
 
 
 ![johyunryung's github stats](https://github-readme-stats.vercel.app/api?username=johyunryung&show_icons=true)
