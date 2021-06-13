@@ -7,8 +7,6 @@ I am a student majoring in Web Solution 👩🏻💻
 
 - 📫 How to reach me : instagram , facebook
 
-- 💪 My goal  : commit once a day
-
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/profile.php?id=100010798333202) [![Instagram Badge](https://img.shields.io/badge/instagram-1877f2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zzsza)](https://www.instagram.com/rac_31y/?hl=ko)      [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjohyunryung&count_bg=%23E69672&title_bg=%23807E7B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
